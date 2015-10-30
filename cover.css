@@ -183,7 +183,7 @@ body {
     min-height: 100%;
 }
 .chf {
-  font-family: 微軟正黑體;
+  font-family: Microsoft JhengHei;
 }
 .namefont {
   font-family: cursive;
@@ -191,3 +191,12 @@ body {
 .ion-email {
   font-size: 18px;
 }
+#profilepic {
+  width: 150px;
+  height: 150px;
+  border:1px;
+}
+
+
+
+
